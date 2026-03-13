@@ -1,5 +1,7 @@
+# CodeAlpha E-commerce Store
 
-# CodeAlpha - E-commerce Store
+GitHub Repository:
+https://github.com/vivegan14/CodeAlpha_EcommerceStore
 
 ## Internship Project
 This project was developed as part of the **CodeAlpha Full Stack Development Internship**.
@@ -86,5 +88,5 @@ Register → Login → Browse Products → Add to Cart → Place Order
 
 ## Author
 
-Intern: Viveg  
+Intern: Vivegan. J
 Internship: CodeAlpha Full Stack Development Internship
